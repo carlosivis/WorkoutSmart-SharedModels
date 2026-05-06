@@ -4,6 +4,8 @@ plugins {
     `maven-publish`
 }
 
+group = "com.github.carlosivis"
+version = "1.0.0"
 
 kotlin {
     jvm()
