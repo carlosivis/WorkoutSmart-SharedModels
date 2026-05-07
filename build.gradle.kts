@@ -4,8 +4,8 @@ plugins {
     `maven-publish`
 }
 
-group = "com.github.carlosivis"
-version = "1.0.0"
+group = "com.github.carlosivis.WorkoutSmart-SharedModels"
+version = "1.0.1"
 
 kotlin {
     jvm()
