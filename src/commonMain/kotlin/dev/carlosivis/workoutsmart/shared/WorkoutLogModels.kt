@@ -1,4 +1,4 @@
-package dev.carlosivis.features.workoutlog
+package dev.carlosivis.workoutsmart.shared
 
 import kotlinx.serialization.Serializable
 
